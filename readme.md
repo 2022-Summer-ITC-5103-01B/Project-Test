@@ -1,6 +1,6 @@
 ## Assignment Name: : Lab 2
 
-## Name: Nithya Thayananthan
+## Name: Name
 
 ## Student Number:
 
